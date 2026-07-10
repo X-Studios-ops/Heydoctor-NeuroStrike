@@ -1,0 +1,6 @@
+{
+  "name": "HeyDoctor GDD",
+  "description": "Game Design Document and Technical Blueprint for a tactical FPS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
